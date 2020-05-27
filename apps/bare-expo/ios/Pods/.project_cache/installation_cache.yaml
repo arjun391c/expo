@@ -770,6 +770,23 @@ CACHE_KEYS:
     PROJECT_NAME: EXSpeech
     SPECS:
       - EXSpeech (8.2.0)
+  EXSplashScreen:
+    BUILD_SETTINGS_CHECKSUM:
+      EXSplashScreen: 83713feec4d325ed6f02c63cd438d057
+    CHECKSUM: 2ac83e0a1b15fb2169a2b4ceb55ff9d9c78effd4
+    FILES:
+      - "../../../../packages/expo-splash-screen/ios/EXSplashScreen/EXSplashScreenController.h"
+      - "../../../../packages/expo-splash-screen/ios/EXSplashScreen/EXSplashScreenController.m"
+      - "../../../../packages/expo-splash-screen/ios/EXSplashScreen/EXSplashScreenModule.h"
+      - "../../../../packages/expo-splash-screen/ios/EXSplashScreen/EXSplashScreenModule.m"
+      - "../../../../packages/expo-splash-screen/ios/EXSplashScreen/EXSplashScreenService.h"
+      - "../../../../packages/expo-splash-screen/ios/EXSplashScreen/EXSplashScreenService.m"
+      - "../../../../packages/expo-splash-screen/ios/EXSplashScreen/EXSplashScreenViewNativeProvider.h"
+      - "../../../../packages/expo-splash-screen/ios/EXSplashScreen/EXSplashScreenViewNativeProvider.m"
+      - "../../../../packages/expo-splash-screen/ios/EXSplashScreen/EXSplashScreenViewProvider.h"
+    PROJECT_NAME: EXSplashScreen
+    SPECS:
+      - EXSplashScreen (0.3.0)
   EXSQLite:
     BUILD_SETTINGS_CHECKSUM:
       EXSQLite: acb84ade2d15e9630e8da4bbb7418d6f
@@ -982,12 +999,12 @@ CACHE_KEYS:
       - nanopb/encode (0.3.9011)
   Pods-BareExpo:
     BUILD_SETTINGS_CHECKSUM:
-      Debug: 885c99e83d25c5f5ad3e45d56860a3e5
-      Release: 885c99e83d25c5f5ad3e45d56860a3e5
+      Debug: 767953f2b95a55d170948e99ca0ebcf0
+      Release: 767953f2b95a55d170948e99ca0ebcf0
   Pods-BareExpoTests:
     BUILD_SETTINGS_CHECKSUM:
-      Debug: 63790a801d67f210f62f4b618716ba86
-      Release: 63790a801d67f210f62f4b618716ba86
+      Debug: 5e9b633dd7301e98df7bed1dfe522cfb
+      Release: 5e9b633dd7301e98df7bed1dfe522cfb
   RCTRequired:
     BUILD_SETTINGS_CHECKSUM:
       RCTRequired: 4dfdb65505e509cfb5f433fb54943666
